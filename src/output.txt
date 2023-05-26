@@ -1,0 +1,10 @@
+La voiture rouge se gare maladroitement -> laVoitureRougeSeGareMaladroitement
+Les enfants jouent joyeusement dans lherbe -> lesEnfantsJouentJoyeusementDansLherbe
+Le chat noir dort paisiblement sur letagere -> leChatNoirDortPaisiblementSurLetagere
+Le professeur explique patiemment le cours -> leProfesseurExpliquePatiemmentLeCours
+Les fleurs multicolores embellissent le jardin -> lesFleursMulticoloresEmbellissentLeJardin
+Les oiseaux chantent gaiement dans le ciel -> lesOiseauxChantentGaiementDansLeCiel
+Les eleves ecrivent silencieusement leurs devoirs -> lesElevesEcriventSilencieusementLeursDevoirs
+Les vagues secrasent bruyamment sur la plage -> lesVaguesSecrasentBruyammentSurLaPlage
+Les etoiles scintillent magnifiquement dans le ciel -> lesEtoilesScintillentMagnifiquementDansLeCiel
+Le bebe sourit tendrement a sa mere -> leBebeSouritTendrementASaMere
